@@ -1,6 +1,6 @@
 ## 💫 About me :
 
-👋 Hi, I’m Kishore, a passionate software developer<br>🔭 Here's my [portfolio](https://kishore-bio.netlify.app/)<br><br>💻 Skilled in Java, full stack and React.js .<br><br>🗄️ Experienced with MongoDB and backend development<br><br>🤖 Interested in generative AI and emerging tech<br><br>🌱 Always learning new languages and frameworks<br><br>🔗 Open to collaboration and contributions to open source<br><br>🚀 Excited about building impactful projects
+👋 Hi, I’m Kishore, a passionate software developer<br><br>🔭 Here's my [portfolio](https://kishore-bio.netlify.app/)<br><br>💻 Skilled in Java, full stack and React.js .<br><br>🗄️ Experienced with MongoDB and backend development<br><br>🤖 Interested in generative AI and emerging tech<br><br>🌱 Always learning new languages and frameworks<br><br>🔗 Open to collaboration and contributions to open source<br><br>🚀 Excited about building impactful projects
 
 
 # 💻 Tech Stack:
